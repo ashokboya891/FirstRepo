@@ -11,6 +11,7 @@ namespace DemoGit
         static void Main()
         {
             Console.WriteLine("hello king");
+            Console.WriteLine("hello king");
         }
     }
 }
