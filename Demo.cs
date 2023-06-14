@@ -13,7 +13,7 @@ namespace DemoGit
             Console.WriteLine("hi");
             Console.WriteLine("bolos");
             Console.WriteLine("hllo");
-                  
+                 console.ReadLine(); 
             return "hello";
         }
     }
